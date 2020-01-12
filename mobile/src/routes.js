@@ -10,7 +10,7 @@ const AppContainer = createStackNavigator({
     Timeline,
     New
 }, {
-  initialRouteName: 'New',
+  initialRouteName: 'Login',
 });
 
 const Routes = createAppContainer(AppContainer);
